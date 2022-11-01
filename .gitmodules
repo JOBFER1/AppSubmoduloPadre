@@ -1,0 +1,3 @@
+[submodule "AppSubmoduloHijo"]
+	path = AppSubmoduloHijo
+	url = https://github.com/JOBFER1/AppSubmoduloHijo.git
